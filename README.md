@@ -29,8 +29,9 @@ Author : Sena Bak
 ## Using the application locally
 
 ### To download project
+    Use Download button or
 
-    git clone https://github.com/senabak/user.git
+    git clone https://github.com/sena7/user.git
 
 ### To start the application
 
